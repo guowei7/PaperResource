@@ -1,0 +1,2 @@
+A Manifold Learning Algorithm Based on Incremental Tangent Space Alignment
+An improved Isomap method for manifold learning
